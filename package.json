@@ -22,9 +22,9 @@
     "remarkjs"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.19.0",
-    "chalk": "^1.0.0",
-    "yosay": "^1.0.2"
+    "yeoman-generator": "^1.1.1",
+    "chalk": "^2.0.1",
+    "yosay": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "*"
