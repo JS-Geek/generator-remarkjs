@@ -1,5 +1,7 @@
 # generator-remarkjs [![Build Status](https://secure.travis-ci.org/xusiyuan841028/generator-remarkjs.png?branch=master)](https://travis-ci.org/xusiyuan841028/generator-remarkjs)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JS-Geek/generator-remarkjs.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator
 
 
